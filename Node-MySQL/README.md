@@ -79,6 +79,7 @@ Main path - (http://localhost:5000): http://localhost:5000
   "message": "success"
   }
 
+# UPDATE
 - PUT /api/notes/update/1
   Request Body:{
   "title":"TETS",
